@@ -1,0 +1,9 @@
+<suite name="smoke suite">
+	<test name="smoke testing">
+		<classes>
+			<class name="testNGFramework.Assert1" />
+			<class name="testNGFramework.InternetSpeed"/>
+			<class name="testNGFramework.DataProviderClass2" />
+		</classes>
+	</test>
+</suite>

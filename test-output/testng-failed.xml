@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Smoke Suite]">
+  <test thread-count="5" name="Smoke Testing Suite(failed)">
+    <classes>
+      <class name="testNGFramework.AssertSoft2">
+        <methods>
+          <include name="ts2"/>
+          <include name="launchApp"/>
+          <include name="closeAppp"/>
+        </methods>
+      </class> <!-- testNGFramework.AssertSoft2 -->
+    </classes>
+  </test> <!-- Smoke Testing Suite(failed) -->
+</suite> <!-- Failed suite [Smoke Suite] -->

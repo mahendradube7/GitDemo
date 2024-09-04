@@ -1,0 +1,10 @@
+<suite name="Regression Suite">
+<test name="Regression Testing Suite">
+<classes>
+<class name="testNGFramework.Facebook"/>
+<class name="testNGFramework.InternetSpeed"/>
+<class name="testNGFramework.DataProviderClass2"/>
+<class name="testNGFramework.AssertSoft2"/>
+</classes>
+</test>
+</suite>
